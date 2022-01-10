@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = eisa.alserkal@gmail.com
+	name = Eisa Alserkal
